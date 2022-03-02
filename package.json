@@ -1,0 +1,23 @@
+{
+  "name": "figma-to-html-docs",
+  "version": "1.0.0",
+  "description": ">  <b>Note: A plugin like this will always be a working progress so you might not get 100% desired results</b>\r <br>",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AroicX/figma-to-html.git"
+  },
+  "author": "AroicX",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AroicX/figma-to-html/issues"
+  },
+  "homepage": "https://github.com/AroicX/figma-to-html#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "fs": "0.0.1-security"
+  }
+}
